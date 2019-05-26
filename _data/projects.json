@@ -1,0 +1,27 @@
+[
+  {
+    "name": "epiviz",
+    "url": "http://github.com/epiviz",
+    "desc": "Interactive and Integrative data visualization and exploration for functional genomic data"
+  },
+  {
+    "name": "metaviz",
+    "url": "http://github.com/epiviz/metaviz",
+    "desc": "Interactive and Integrative data visualization and exploration for metagenomic data"
+  },
+  {
+    "name": "epivizrChart",
+    "url": "http://www.bioconductor.org/packages/3.6/bioc/html/epivizrChart.html",
+    "desc": "Biocondcutor package: R interface to epiviz components"
+  },
+  {
+    "name": "ToxCast Dashboard",
+    "url": "http://actor.epa.gov/dashboard",
+    "desc": "Dashboard for distribution, visualization and use of chemical screening data from ToxCast (US EPA)"
+  },
+  {
+    "name": "EDSP21 Dashboard",
+    "url": "http://actor.epa.gov/edsp21",
+    "desc": "Dashboard specific to endocrine disruption screening program (EDSP)"
+  }
+]
