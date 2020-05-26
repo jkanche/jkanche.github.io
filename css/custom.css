@@ -29,3 +29,12 @@
     font-style: italic;
     font-variant: normal;
 }
+
+.menu a {
+    background:none;
+
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}

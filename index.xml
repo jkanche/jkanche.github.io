@@ -21,34 +21,5 @@
   Are International Students eligible for ORISE (OakRidge Science) Fellowships ?  International students can apply to most ORISE fellowships (unless the position is only for US citizens). If accepted, you will be required to change your visa to J1 - long/short term research scholar depending on the length of the position.</description>
     </item>
     
-    <item>
-      <title>Projects</title>
-      <link>/projects/</link>
-      <pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate>
-      
-      <guid>/projects/</guid>
-      <description>Epiviz Epiviz is a suite of tools and packages for interactive and statistical visualization of genomic data sets.
-   </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Link to CV. (probably the most upto date)</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publications/</guid>
-      <description>A more comprehensive list of publications is available at ORCID and ResearchGate.
-PUBLICATIONS  Kancherla J, Zhang A, Gottfried B and Bravo HC. Epiviz Web Components: reusable and extensible component library to visualize functional genomic datasets. F1000Research 2018, 7:1096 (doi: 10.12688/f1000research.15433.1) (*equal contribution) Justin Wagner*, Florin Chelaru*, Jayaram Kancherla*, Joseph N Paulson*, Alexander Zhang, Victor Felix, Anup Mahurkar, Niklas Elmqvist, Héctor Corrada Bravo; Metaviz: interactive statistical and visual analysis of metagenomic data, Nucleic Acids Research, Volume 46, Issue 6, 6 April 2018, Pages 2777–2787, http://doi.</description>
-    </item>
-    
   </channel>
 </rss>

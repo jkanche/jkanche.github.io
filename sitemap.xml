@@ -13,12 +13,12 @@
   </url>
   
   <url>
-    <loc>/categories/immigration/</loc>
+    <loc>/tags/immigration/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/immigration/</loc>
+    <loc>/categories/immigration/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -45,19 +45,6 @@
   <url>
     <loc>/tags/visa/</loc>
     <lastmod>2019-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/projects/</loc>
-    <lastmod>2019-04-19T21:37:58+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/publications/</loc>
   </url>
   
 </urlset>
