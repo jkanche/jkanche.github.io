@@ -1,19 +1,87 @@
 ---
-title: "~"
+title: "Home"
 enableToc: "false"
 ---
-I am currently a **Senior Research Software Engineer** at Genentech. Previously, I was a Faculty Researcher/Scientific Programmer with Dr. [Hector Corrada Bravo](http://www.hcbravo.org/) at the Center for Bioinformatics and Computational Biology, University of Maryland, College Park. I work on developing interactive and integrative visual and exploratory tools for biomedical datasets (epigenomic, metagenomics & single-cell).
 
-Find me on [github](http://github.com/jkanche), [bsky](https://bsky.app/profile/did:plc:3pz77k4ljmluuqcvz744jx2y), [twitter](http://twitter.com/jayaram), [scholar](http://scholar.google.com/citations?user=CFOvaRwAAAAJ) or send a [message](mailto:jayaram.kancherla@gmail.com).
+I am currently a **Senior Research Software Engineer** at Genentech. I develop interactive and integrative visual analysis and exploratory tools for biomedical datasets (epigenomic, metagenomics & single-cell). My interests include bioinformatics, data visualization & web development.
 
-> [!info] Note 
-> This website is currently migrating to quartz and obsidian.
-## Projects
+Find me on [bsky](https://bsky.app/profile/did:plc:3pz77k4ljmluuqcvz744jx2y), [twitter](http://twitter.com/jayaram), [scholar](http://scholar.google.com/citations?user=CFOvaRwAAAAJ) or send a [message](mailto:jayaram.kancherla@gmail.com).
 
-**Complete list available on [GitHub](https://github.com/jkanche)**
+## Recent Software
 
-- [Kana](https://www.jkanche.com/kana/): Single-cell RNA-seq analysis in the browser [](https://github.com/jkanche/kana)
-- [Epiviz](http://www.epiviz.org/): Interactive and Integrative data visualization and exploration for functional genomic data [](https://github.com/epiviz/epiviz)
-- [Metaviz](http://www.metaviz.org/): Interactive and Integrative data visualization and exploration for metagenomic data [](https://github.com/epiviz/metaviz)
-- [Epiviz File Server](http://epivizfileparser.readthedocs.io/en/latest/): in-situ query and transform genomic data files. [](https://github.com/epiviz/epivizFileServer)
-- [epivizrChart](http://www.bioconductor.org/packages/3.6/bioc/html/epivizrChart.html): Create or integrate interactive visualizations for various bioconductor genomic data types with Shiny or RMarkdown documents [](https://github.com/epiviz/epivizrChart)
+For a complete list, visit the [Projects](./About/Projects) section or my [GitHub](https://github.com/jkanche).
+
+<style>
+  .projects-container {
+    display: flex;
+    /* flex-wrap: wrap; */
+    gap: 7px;
+    justify-content: space-between;
+    margin: 5px 0;
+  }
+  
+  .project-card {
+    flex: 1;
+    min-width: calc(33% - 15px);
+    background-color: #ffffff;
+    border-radius: 8px;
+    border: 1px solid #3165a5;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+  }
+
+  .project-image {
+    width: 100%;
+    height: 200px;
+    object-fit: cover !important;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .project-content {
+    padding: 24px;
+  }
+  
+  .project-title {
+    font-size: 20px;
+    font-weight: 600;
+    color: #3165a5;
+    margin-bottom: 12px;
+  }
+  
+  .project-description {
+    color: #555;
+    margin-bottom: 5px;
+  }
+  
+  @media (max-width: 768px) {
+    .project-card {
+      min-width: 100%;
+    }
+  }
+</style>
+
+<div class="projects-container">
+  <div class="project-card">
+    <img src="./About/attachments/v3_release.png" alt="Kanaverse" class="project-image" />
+    <div class="project-content">
+      <a class="project-title" target="_blank" href="https://github.com/kanaverse">Kanaverse</a>
+      <p class="project-description">Multi-modal single-cell analysis and exploration tool with interactive visualizations.</p>
+    </div>
+  </div>
+  
+  <div class="project-card">
+    <img src="./About/attachments/biocpy.png" alt="BiocPy" class="project-image" />
+    <div class="project-content">
+      <a class="project-title" target="_blank" href="https://github.com/biocpy">BiocPy</a>
+      <p class="project-description">Facilitating Bioconductor workflows in Python.</p>
+    </div>
+  </div>
+
+  <div class="project-card">
+    <img src="./About/attachments/cellarr.png" alt="CellArray" class="project-image" />
+    <div class="project-content">
+      <a class="project-title" target="_blank" href="https://github.com/cellarr">Cell Arrays</a>
+      <p class="project-description">TileDB backed store and dataloaders for genomics.</p>
+    </div>
+  </div>
+</div>
