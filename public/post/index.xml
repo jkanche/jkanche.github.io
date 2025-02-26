@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jayaram Kancherla</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Jayaram Kancherla</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>J1 Waiver</title>
+      <link>//localhost:1313/post/2019/05/26/j1-waiver/</link>
+      <pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/post/2019/05/26/j1-waiver/</guid>
+      <description>&lt;p&gt;This contains a list of questions I get asked through email or friends! &lt;br/&gt;&#xA;&lt;em&gt;&lt;strong&gt;Disclaimer: This is based on my experience and should NOT be taken as official response!&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Are International Students eligible for &lt;a href=&#34;https://orise.orau.gov/&#34;&gt;ORISE (OakRidge Science) Fellowships&lt;/a&gt; ?&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;International students can apply to most ORISE fellowships (unless the position is only for US citizens).&#xA;If accepted, you will be required to change your visa to J1 - long/short&#xA;term research scholar depending on the length of the position. Since the J1 exchange visitor visa is sponsored&#xA;by the US government or use government funds, you &lt;strong&gt;WILL&lt;/strong&gt; be subject to &lt;strong&gt;Two-Year Home-Country Physical Presence Requirement&lt;/strong&gt;&#xA;also called 212(e).&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
