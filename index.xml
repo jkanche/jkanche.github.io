@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on Jayaram Kancherla</title><link>/</link><description>Recent content in Home on Jayaram Kancherla</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 26 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>J1 Waiver</title><link>/post/2019/05/26/j1-waiver/</link><pubDate>Sun, 26 May 2019 00:00:00 +0000</pubDate><guid>/post/2019/05/26/j1-waiver/</guid><description>&lt;p>This contains a list of questions I get asked through email or friends! &lt;br/>
+&lt;em>&lt;strong>Disclaimer: This is based on my experience and should NOT be taken as official response!&lt;/strong>&lt;/em>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;strong>Are International Students eligible for &lt;a href="https://orise.orau.gov/">ORISE (OakRidge Science) Fellowships&lt;/a> ?&lt;/strong>&lt;/p>
+&lt;p>International students can apply to most ORISE fellowships (unless the position is only for US citizens).
+If accepted, you will be required to change your visa to J1 - long/short
+term research scholar depending on the length of the position. Since the J1 exchange visitor visa is sponsored
+by the US government or use government funds, you &lt;strong>WILL&lt;/strong> be subject to &lt;strong>Two-Year Home-Country Physical Presence Requirement&lt;/strong>
+also called 212(e).&lt;/p></description></item><item><title>Projects</title><link>/projects/</link><pubDate>Fri, 19 Apr 2019 21:37:58 +0530</pubDate><guid>/projects/</guid><description>&lt;p>Open-source Software and Applications&lt;/p>
+&lt;p>(Complete list available on GitHub [id: [https://github.com/jkanche||jkanche]])&lt;/p>
+&lt;p>npm packages - [https://www.npmjs.com/~jkanche]&lt;/p>
+&lt;p>PyPI packages - [https://pypi.org/user/jkanche/]&lt;/p>
+&lt;p>• itemsep=0.1ex, leftmargin=0.6cmKana: Single-Cell RNA-seq analysis in the browserGitHub: [https://github.com/jkanche/kana]Application: [https://www.jkanche.com/kana/]&lt;/p>
+&lt;p>• BiocPy: Facilitate Bioinformatic workflows in PythonGitHub: [https://github.com/BiocPy]&lt;/p>
+&lt;p>• scTreeViz: Interactive Hierarchical exploration of single cell RNA-seq expession datasetsGitHub: [https://github.com/HCBravoLab/scTreeViz]&lt;/p>
+&lt;p>• Epiviz File Server: Query and Transform directly from indexed genomic filesGitHub: [https://github.com/epiviz/epivizFileParser]Published to PyPI: [https://pypi.org/project/epivizFileServer]doi: [http://doi.org/10.5281/zenodo.3841643||10.5281/zenodo.3841643]&lt;/p>
+&lt;p>• Epiviz Feed: Proactive interactive and statistical visualization of genomic dataThe Epiviz Feed application for the cancer epigenetics use case is hosted on an AWS instance and is available at [http://54.157.53.251/browser]User Interface: [https://github.com/epiviz/epiviz_feed_polymer]Computational Server: [https://github.com/epiviz/epiviz-feed-computation]doi: [http://doi.org/10.5281/zenodo.3373762||10.5281/zenodo.3373762]&lt;/p></description></item><item><title>About</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>&lt;p>I&amp;rsquo;m a research software engineer specializing in interactive visualization platforms for genomic data. &lt;a href="https://drive.google.com/file/d/1q_uO5MRvwHo83Cr6VOzsALIo2wxTA4oH/view?usp=sharing">View my complete CV&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="professional-experience">Professional Experience&lt;/h2>
+&lt;h3 id="genentech-research-and-early-development-gred-south-san-francisco-ca">Genentech Research and Early Development (gRED), South San Francisco, CA&lt;/h3>
+&lt;p>&lt;strong>Sr. Research Software Engineer&lt;/strong> | Oct 2020 - Present &lt;br/>
+Bioinformatics Software Enigneer III | Oct 2020 - Jul 2021&lt;/p>
+&lt;p>I lead engineering projects and teams to develop high-performance web applications and systems for computational biology, focusing on:&lt;/p>
+&lt;ul>
+&lt;li>Building scalable systems for multi-modal single-cell data analysis&lt;/li>
+&lt;li>Creating interactive visualization tools using WebAssembly and WebGL, &lt;a href="https://github.com/kanaverse">Kana&lt;/a>&lt;/li>
+&lt;li>Leading &lt;a href="https://github.com/biocpy">BiocPy&lt;/a>, bringing R/Bioconductor workflows to Python&lt;/li>
+&lt;li>Developing &lt;a href="https://github.com/artifactdb">language-agnostic data storage&lt;/a> formats for genomic datasets&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="university-of-maryland-college-park-md">University of Maryland, College Park, MD&lt;/h3>
+&lt;p>Faculty Specialist | Jan 2016 - Sep 2019 &lt;br/>
+Faculty Research Assistant | Jan 2016 - Sep 2019&lt;/p></description></item><item><title>Publications</title><link>/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/publications/</guid><description>&lt;p>A more comprehensive list of publications is available at &lt;a href="http://orcid.org/0000-0001-5855-5031">ORCID&lt;/a> and &lt;a href="http://www.researchgate.net/profile/Jayaram_Kancherla">ResearchGate&lt;/a>.&lt;/p>
+&lt;h2 id="publications">PUBLICATIONS&lt;/h2>
+&lt;ol>
+&lt;li>
+&lt;p>itemsep=0.1ex, leftmargin=0.6cm[&lt;em>equal contribution] Aaron Lun&lt;/em>, Kancherla, Jayaram*. Powering single-cell analyses in the browser with WebAssembly. Journal of Open Source Software 8.89 (2023): 5603.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Lun, Aaron TL, and Jayaram Kancherla. gesel: a JavaScript package for client-side gene set enrichment. Journal of Open Source Software 8.90 (2023): 5777.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[Preprint] Mohamed K. Gunady, Jayaram Kancherla, Héctor Corrada Bravo, Soheil Feizi. scGAIN: Single Cell RNA-seq Data Imputation using Generative Adversarial Networks. bioRxiv 837302; doi: [https://doi.org/10.1101/837302||10.1101/837302]&lt;/p></description></item></channel></rss>
